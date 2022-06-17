@@ -1,5 +1,5 @@
 # GameStoreAPI
-==============================
+
 
 API created to manage games in store.
 
