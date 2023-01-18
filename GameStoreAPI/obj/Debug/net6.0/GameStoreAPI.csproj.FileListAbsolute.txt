@@ -1,0 +1,120 @@
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\GameStoreAPI.exe
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\GameStoreAPI.deps.json
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\GameStoreAPI.runtimeconfig.json
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\GameStoreAPI.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\GameStoreAPI.pdb
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.csproj.AssemblyReference.cache
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.AssemblyInfoInputs.cache
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.AssemblyInfo.cs
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\scopedcss\bundle\GameStoreAPI.styles.css
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.csproj.CopyComplete
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\refint\GameStoreAPI.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.pdb
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.genruntimeconfig.cache
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\ref\GameStoreAPI.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\me\Desktop\PROJEKT STAŻ\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\GameStoreAPI.exe
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\GameStoreAPI.deps.json
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\GameStoreAPI.runtimeconfig.json
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\GameStoreAPI.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\GameStoreAPI.pdb
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.csproj.AssemblyReference.cache
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.AssemblyInfoInputs.cache
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.AssemblyInfo.cs
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\scopedcss\bundle\GameStoreAPI.styles.css
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.csproj.CopyComplete
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\refint\GameStoreAPI.dll
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.pdb
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\GameStoreAPI.genruntimeconfig.cache
+C:\Users\me\Desktop\GameStoreAPI\GameStoreAPI\obj\Debug\net6.0\ref\GameStoreAPI.dll
